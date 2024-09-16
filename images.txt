@@ -5,5 +5,5 @@ redis
 alpine
 busybox
 centos
-#debian
+debian
 ubuntu
