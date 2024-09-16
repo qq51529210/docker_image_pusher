@@ -4,6 +4,6 @@ redis
 #scratch
 alpine
 busybox
-#centos
+centos
 #debian
-#ubuntu
+ubuntu
