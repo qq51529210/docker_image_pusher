@@ -1,4 +1,10 @@
 nginx
 mysql
 redis
+scratch
+alpine
+busybox
+centos
+debian
 ubuntu
+alpine
