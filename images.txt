@@ -1,9 +1,9 @@
 nginx
 mysql
 redis
-scratch
+#scratch
 alpine
-busybox
-centos
-debian
-ubuntu
+#busybox
+#centos
+#debian
+#ubuntu
