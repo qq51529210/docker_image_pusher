@@ -3,7 +3,7 @@ mysql
 redis
 #scratch
 alpine
-#busybox
+busybox
 #centos
 #debian
 #ubuntu
