@@ -7,4 +7,3 @@ busybox
 centos
 debian
 ubuntu
-alpine
