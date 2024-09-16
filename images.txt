@@ -1,7 +1,7 @@
 nginx
 mysql
 redis
-#scratch
+scratch
 alpine
 busybox
 centos
