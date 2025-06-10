@@ -7,3 +7,4 @@ centos
 debian
 ubuntu
 scratch
+apache/kafka:4.0.0
