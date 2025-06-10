@@ -1,8 +1,8 @@
-nginx
-mysql
-redis
-alpine
-busybox
-ubuntu
-scratch
+nginx:latest
+mysql:latest
+redis:latest
+alpine:latest
+busybox:latest
+ubuntu:latest
+scratch:latest
 apache/kafka:4.0.0
