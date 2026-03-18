@@ -1,2 +1,3 @@
 provectuslabs/kafka-ui:latest
 apache/kafka:latest
+bitnami/kafka:latest
